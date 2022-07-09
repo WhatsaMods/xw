@@ -1,10 +1,10 @@
 {
 	"packages": [
 		{	
-			"version": "2.22.15.13",
+			"version": "2.22.15.17",
 			"package": "com.xwasha",
 			"title": "XWasha",
-			"download": "https://github.com/WhatsaMods/xw/raw/master/bt/x2.22.15.13Beta.apk",
+			"download": "https://github.com/WhatsaMods/xw/raw/master/bt/x2.22.15.17Beta.apk",
 			"update": [
 				{
 					"languaje": "es",
@@ -29,10 +29,10 @@
 			]
 		},
 		{
-			"version": "2.22.15.13",
+			"version": "2.22.15.17",
 			"package": "com.whatsapp",
 			"title": "WhatsApp",
-			"download": "https://github.com/WhatsaMods/xw/raw/master/bt/w2.22.15.13Beta.apk",
+			"download": "https://github.com/WhatsaMods/xw/raw/master/bt/w2.22.15.17Beta.apk",
 			"update": [
 				{
 					"languaje": "es",
