@@ -4,7 +4,7 @@
 			"version": "2.23.16.77",
 			"package": "com.xwasha",
 			"title": "XWasha",
-			"download": "https://github.com/WhatsaMods/xw/raw/master/st/x2.23.16.77.apk",
+			"download": "hhttps://raw.githubusercontent.com/WhatsaMods/xw/master/apk/x2.23.16.77.apk",
 			"update": [
 				{
 					"languaje": "es",
@@ -32,7 +32,7 @@
 			"version": "2.23.16.77",
 			"package": "com.whatsapp",
 			"title": "WhatsApp",
-			"download": "https://github.com/WhatsaMods/xw/raw/master/st/w2.23.16.77.apk",
+			"download": "https://raw.githubusercontent.com/WhatsaMods/xw/master/apk/w2.23.16.77.apk",
 			"update": [
 				{
 					"languaje": "es",
