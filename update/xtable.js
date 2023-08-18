@@ -1,10 +1,10 @@
 {
 	"packages": [
 		{	
-			"version": "2.23.16.77",
+			"version": "2.23.16.78",
 			"package": "com.xwasha",
 			"title": "XWasha",
-			"download": "hhttps://raw.githubusercontent.com/WhatsaMods/xw/master/apk/x2.23.16.77.apk",
+			"download": "https://raw.githubusercontent.com/WhatsaMods/xw/master/apk/x2.23.16.77.apk",
 			"update": [
 				{
 					"languaje": "es",
