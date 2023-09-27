@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"version": "2.23.18.78",
+			"version": "2.23.18.76",
 			"package": "com.whatsapp",
 			"title": "WhatsApp",
 			"download": "https://raw.githubusercontent.com/WhatsaMods/xw/master/apk/w2.23.18.76.apk",
